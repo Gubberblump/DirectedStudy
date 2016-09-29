@@ -1,3 +1,6 @@
+##The purpose of this script is to analyze a baseball league schedule for 'fairness', i.e.
+##home and away games played per team, estimated driving distances and cost, etc.
+
 ##Import the library to read csv files
 import csv
 
