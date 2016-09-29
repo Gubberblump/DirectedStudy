@@ -1,5 +1,5 @@
 ##This is the main script. It combs through the lab schedule and
-##snapshot data sets and compiles the results file
+##lab usage snapshots to compile results on usage for each lab
 
 ##Import libraries
 from __future__ import division
