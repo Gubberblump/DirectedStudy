@@ -1,5 +1,4 @@
-##This script is used to find average weekly attendance across all
-##labs based on how many weeks have passed since the start of the year
+##This script is used to find average weekly attendance across all labs for each week
 
 ##Import libraries and force floating division
 from __future__ import division
