@@ -1,5 +1,4 @@
-##This script converts the timestamps in the SCI 234 file to a 12 hour system
-##so it matches the rest of the files
+##This script converts the timestamps in the SCI 234 file to a 12 hour system to match the formatting of the other data
 
 ##Import libraries
 import csv
